@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """打印中文问候，可用 --repeat 重复多行。"""
 
 import argparse
